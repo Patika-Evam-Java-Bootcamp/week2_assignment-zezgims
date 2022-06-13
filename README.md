@@ -1,6 +1,6 @@
-##İkinci Hafta Ödev Konusu
+## İkinci Hafta Ödev Konusu
 
-###Bir fatura ödeme / sorgulama / ödeme iptali işlemlerinin olduğu proje yapacağız:
+### Bir fatura ödeme / sorgulama / ödeme iptali işlemlerinin olduğu proje yapacağız:
 
 - Faturaları ilişkilendireceğimiz bir MemberAccount class, MemberAccountService gibi create/read/update/delete işlemleri yapan bir servis class,
 - Fatura için amount, process_date, bill_type , id bilgileri tutulsun.
