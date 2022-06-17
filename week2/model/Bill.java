@@ -14,7 +14,7 @@ public class Bill {
 		this.processDate = LocalDate.now();
 		this.billType = billType;
 		this.id = id;
-    }
+    	}
 	
 	public double getAmount() {
 		return amount;
