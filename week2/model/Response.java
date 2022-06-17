@@ -4,14 +4,14 @@ import java.time.LocalDate;
 
 public class Response {
 	
-	private String code;
-	private String date;
+    private String code;
+    private String date;
 	
-	public Response() {
-		this.code = "";
+    public Response() {
+        this.code = "";
     }
 	
-	public Response(String code) {
+    public Response(String code) {
         this.code = code;
         this.date = LocalDate.now().toString();
     }
